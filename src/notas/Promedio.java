@@ -102,6 +102,7 @@ public class Promedio {
         } // fin del for
 
         // mostrar el nombre del estu con la nota max
+        System.out.println("programa promedio de notas ...");
         System.out.println("=============================== mayor ==============================");
         System.out.println(" alumno : "+e[indice].toString());
         // recorrer el vector indice_nota_max
